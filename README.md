@@ -17,6 +17,7 @@ Aplicación de escritorio desarrollada en Java con conexión a Oracle Database, 
 ## 🗄 Base de Datos
 El repositorio incluye el script:
 - crear_tablas_productos.sql
+
 Conexión a base de datos Oracle mediante JDBC
 
 ## 📌 Arquitectura
