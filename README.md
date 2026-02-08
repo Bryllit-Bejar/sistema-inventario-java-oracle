@@ -22,9 +22,9 @@ Conexión a base de datos Oracle mediante JDBC
 
 ## 📌 Arquitectura
 El proyecto está organizado en capas:
-Datos (DAO) → acceso a base de datos
-Negocio → lógica del sistema
-Vista → interfaz gráfica en Swing
+- Datos (DAO) → acceso a base de datos
+- Negocio → lógica del sistema
+- Vista → interfaz gráfica en Swing
 
 ## 📚 Estado del proyecto
 Proyecto académico en constante mejora, desarrollado como práctica de conexión Java–Oracle y arquitectura en capas
